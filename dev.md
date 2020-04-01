@@ -2,4 +2,4 @@
 
 some update
 
-update from gitKraken
+update from gitKrakendev.md new content
